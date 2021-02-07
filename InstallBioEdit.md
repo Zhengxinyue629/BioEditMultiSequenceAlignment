@@ -37,6 +37,6 @@ brew install wine-stable
 ```
 which on my screen outputs the following image
 <p align="center">
-  <img src="https://github.com/adeslatt/BioEditMultiSequenceAlignment/blob/master/assets/BrewInstallWineStableOnMac.png"  width="250" align="right" >
+  <img src="https://github.com/adeslatt/BioEditMultiSequenceAlignment/blob/master/assets/BrewInstallWineStableOnMac.png"  width="500" align="center" >
 </p>
 <br/><br/>
