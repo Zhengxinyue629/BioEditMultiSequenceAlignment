@@ -36,4 +36,7 @@ This still caused an error -- so instead I just ran
 brew install wine-stable
 ```
 which on my screen outputs the following image
-<img=>
+<p align="center">
+  <img src="https://github.com/adeslatt/BioEditMultiSequenceAlignment/blob/master/assets/BrewInstallWineStableOnMac.png"  width="250" align="right" >
+</p>
+<br/><br/>
