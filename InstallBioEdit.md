@@ -66,4 +66,9 @@ Taking a look of the contents of the directory after moving the file and unzippi
  mv ~/Downloads/bioedit.zip .
  unzip bioedit.zip
 ```
-wine set
+Still was not working so I did the following
+1. Installed Xcode
+2. Updated XQuartz
+
+Had to reboot for the XQuarts to become the default X11
+
